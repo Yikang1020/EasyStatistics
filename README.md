@@ -1,5 +1,5 @@
-# EasyStatistics
+# Statistics for psychology and neuroscience
 
 Members: Yikang Liu
 
-We try to make statistics to be easy, and researchers can allocate their time to do something more meaningful.
+this repo will restore some scripts about statistical problems and tips.
